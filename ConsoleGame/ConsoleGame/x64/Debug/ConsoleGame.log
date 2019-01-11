@@ -1,0 +1,9 @@
+﻿  main.c
+c:\dev\consolegame\consolegame\main.c(104): warning C4013: 'getch' undefined; assuming extern returning int
+c:\dev\consolegame\consolegame\main.c(174): warning C4047: 'return': 'player *' differs in levels of indirection from 'int'
+c:\dev\consolegame\consolegame\main.c(195): warning C4047: 'return': 'enemy *' differs in levels of indirection from 'int'
+c:\dev\consolegame\consolegame\main.c(213): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\dev\consolegame\consolegame\main.c(214): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\dev\consolegame\consolegame\main.c(243): warning C4020: 'PlaySoundA': too many actual parameters
+c:\dev\consolegame\consolegame\main.c(211): warning C4101: 'playerMaxHp': unreferenced local variable
+  ConsoleGame.vcxproj -> C:\Dev\ConsoleGame\x64\Debug\ConsoleGame.exe

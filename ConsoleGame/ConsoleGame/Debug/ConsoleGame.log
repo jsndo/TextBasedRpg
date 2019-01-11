@@ -1,0 +1,9 @@
+﻿  main.c
+c:\dev\consolegame\consolegame\main.c(59): warning C4129: 'D': unrecognized character escape sequence
+c:\dev\consolegame\consolegame\main.c(59): warning C4129: 'C': unrecognized character escape sequence
+c:\dev\consolegame\consolegame\main.c(59): warning C4129: 'l': unrecognized character escape sequence
+c:\dev\consolegame\consolegame\main.c(65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\dev\consolegame\consolegame\main.c(66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\dev\consolegame\consolegame\main.c(221): warning C4013: 'getch' undefined; assuming extern returning int
+main.obj : error LNK2019: unresolved external symbol __imp__PlaySoundA@12 referenced in function _battleMonster
+C:\Dev\ConsoleGame\Debug\ConsoleGame.exe : fatal error LNK1120: 1 unresolved externals
